@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kimbadu-library-and-discovery/static/css/main.36cb3881.css",
+    "main.css": "/kimbadu-library-and-discovery/static/css/main.3c8e4cea.css",
     "main.js": "/kimbadu-library-and-discovery/static/js/main.d9df0a93.js",
     "static/js/453.453cfa7f.chunk.js": "/kimbadu-library-and-discovery/static/js/453.453cfa7f.chunk.js",
     "index.html": "/kimbadu-library-and-discovery/index.html",
-    "main.36cb3881.css.map": "/kimbadu-library-and-discovery/static/css/main.36cb3881.css.map",
+    "main.3c8e4cea.css.map": "/kimbadu-library-and-discovery/static/css/main.3c8e4cea.css.map",
     "main.d9df0a93.js.map": "/kimbadu-library-and-discovery/static/js/main.d9df0a93.js.map",
     "453.453cfa7f.chunk.js.map": "/kimbadu-library-and-discovery/static/js/453.453cfa7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36cb3881.css",
+    "static/css/main.3c8e4cea.css",
     "static/js/main.d9df0a93.js"
   ]
 }
