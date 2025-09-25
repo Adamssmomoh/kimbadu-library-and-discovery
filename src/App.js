@@ -18,7 +18,7 @@ import AboutDeveloperPage from "./pages/AboutDeveloperPage"; // Import AboutDeve
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kimbadu-library-and-discovery">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/literacy-program" element={<LiteracyProgramPage />} /> {/* Uncommented */}
