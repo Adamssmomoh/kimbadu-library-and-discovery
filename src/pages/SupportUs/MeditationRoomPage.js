@@ -62,17 +62,17 @@ function MeditationRoomPage() { // Renamed function
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             <img
-              src="/support image /meadtion children.jpg"
+              src="support image /meadtion children.jpg"
               alt="Current meditation room setup"
               className="rounded-lg shadow-md"
             />
             <img
-              src="/support image /medation.jpg"
+              src="support image /medation.jpg"
               alt="Room needing soft lighting"
               className="rounded-lg shadow-md"
             />
             <img
-              src="/support image /medation room shrlf.jpg"
+              src="support image /medation room shrlf.jpg"
               alt="Space lacking cushions and mats"
               className="rounded-lg shadow-md"
             />

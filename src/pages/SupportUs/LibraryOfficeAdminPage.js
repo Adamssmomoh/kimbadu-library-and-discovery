@@ -19,9 +19,9 @@ const officeAdminData = {
   whyItMattersBackgroundColor: "bg-gray-100",
   galleryTitle: "Library Office & Admin Today",
   galleryImages: [
-    { src: "/support image /office area.jpg", alt: "Printer and office desk" },
-    { src: "/support image /office room.jpg", alt: "Staff workspace" },
-    { src: "/support image /office section.jpg", alt: "Office supplies shelf" },
+    { src: "support image /office area.jpg", alt: "Printer and office desk" },
+    { src: "support image /office room.jpg", alt: "Staff workspace" },
+    { src: "support image /office section.jpg", alt: "Office supplies shelf" },
   ],
   ctaTitle: "Support the People Who Keep Us Running",
   ctaText: "Your support ensures our office has the supplies it needs and that our staff can receive fair stipends for their hard work.",

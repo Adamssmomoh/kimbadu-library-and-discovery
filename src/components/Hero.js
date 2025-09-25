@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section
       className="relative h-[70vh] bg-cover bg-center flex flex-col justify-center items-center text-white text-center px-4"
-      style={{ backgroundImage: "url('/home image/literacy.jpg')" }}
+      style={{ backgroundImage: "url('home image/literacy.jpg')" }}
     >
       <div className="bg-black bg-opacity-50 absolute inset-0"></div>
       

@@ -19,9 +19,9 @@ const childrensRoomData = {
   whyItMattersBackgroundColor: "bg-yellow-100",
   galleryTitle: "Children’s Room Today",
   galleryImages: [
-    { src: "/support image /children reading.jpg", alt: "Children reading in the library" },
-    { src: "/support image /children game.jpg", alt: "Few books available for children" },
-    { src: "/support image /children.jpg", alt: "Children's play corner" },
+    { src: "support image /children reading.jpg", alt: "Children reading in the library" },
+    { src: "support image /children game.jpg", alt: "Few books available for children" },
+    { src: "support image /children.jpg", alt: "Children's play corner" },
   ],
   ctaTitle: "Make Reading Fun for Kids",
   ctaText: "You can donate Sierra Leonean children’s books, send puzzles and games, or give financially so we can purchase these items locally. Every small act makes a big difference for our children.",

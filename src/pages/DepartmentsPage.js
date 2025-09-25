@@ -46,32 +46,32 @@ const departments = [
 const roomImages = [
   {
     name: "Main Reading Room",
-    img: "/departments image/main reading room.jpg", // Local image
+    img: "departments image/main reading room.jpg", // Local image
     note: "Our spacious main reading room filled with shelves and tables.",
   },
   {
     name: "Computer Room",
-    img: "/departments image/computer room.jpg", // Local image
+    img: "departments image/computer room.jpg", // Local image
     note: "Equipped with modern computers for study and research.",
   },
   {
     name: "Children’s Room",
-    img: "/departments image/children room.jpg", // Local image
+    img: "departments image/children room.jpg", // Local image
     note: "A colorful space designed for children to enjoy reading.",
   },
   {
     name: "Meditation Room",
-    img: "/departments image/medation room.jpg", // Local image
+    img: "departments image/medation room.jpg", // Local image
     note: "Quiet meditation space for private reading & reflection.",
   },
   {
     name: "Admin Office",
-    img: "/departments image/office space.jpg", // Local image
+    img: "departments image/office space.jpg", // Local image
     note: "Small office space for staff and library management.",
   },
   {
     name: "Science Section",
-    img: "/departments image/science room.jpg", // Local image
+    img: "departments image/science room.jpg", // Local image
     note: "Shelves filled with science books and research materials.",
   },
 ];

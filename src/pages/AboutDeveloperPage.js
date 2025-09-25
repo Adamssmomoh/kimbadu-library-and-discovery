@@ -12,7 +12,7 @@ const AboutDeveloperPage = () => {
           {/* Developer Image Section */}
           <div className="md:flex-shrink-0 md:w-1/3 bg-gray-200 p-6 flex items-center justify-center">
             <img 
-              src="/home image/adams.jpg" 
+              src="home image/adams.jpg" 
               alt="Adams S. Momoh" 
               className="w-full h-full object-cover rounded-full md:rounded-lg shadow-md" 
             />

@@ -11,35 +11,35 @@ import "swiper/css/effect-fade";
 // Shelf Images
 const shelfImages = [
   {
-    url: "/book-catalog-image/shelf 1.JPG",
+    url: "book-catalog-image/shelf 1.JPG",
     caption: "Fiction Shelf",
   },
   {
-    url: "/book-catalog-image/shelf 2.JPG",
+    url: "book-catalog-image/shelf 2.JPG",
     caption: "Non-Fiction Shelf",
   },
   {
-    url: "/book-catalog-image/shelf 3.jpeg",
+    url: "book-catalog-image/shelf 3.jpeg",
     caption: "Science Shelf",
   },
   {
-    url: "/book-catalog-image/shelf 4.jpeg",
+    url: "book-catalog-image/shelf 4.jpeg",
     caption: "Children's Books",
   },
   {
-    url: "/book-catalog-image/shelf 6.jpeg",
+    url: "book-catalog-image/shelf 6.jpeg",
     caption: "Art & Creativity",
   },
   {
-    url: "/book-catalog-image/shelf 7.jpeg",
+    url: "book-catalog-image/shelf 7.jpeg",
     caption: "Research Collection",
   },
   {
-    url: "/book-catalog-image/shelf 8.jpeg",
+    url: "book-catalog-image/shelf 8.jpeg",
     caption: "Digital Learning Shelf",
   },
   {
-    url: "/book-catalog-image/shelf 9.jpeg",
+    url: "book-catalog-image/shelf 9.jpeg",
     caption: "Mystery & Novels",
   },
 ];
@@ -50,37 +50,37 @@ const books = [
     title: "School books",
     author: "F. Scott Fitzgerald",
     category: "school books",
-    cover: "/book-catalog-image/Sierra Leone school books.jpg",
+    cover: "book-catalog-image/Sierra Leone school books.jpg",
   },
   {
     title: "Primary Books",
     author: "Yuval Noah Harari",
     category: "Primary Books",
-    cover: "/book-catalog-image/Primary 1 - 6.jpg",
+    cover: "book-catalog-image/Primary 1 - 6.jpg",
   },
   {
     title: "Science & nature",
     author: "Various Authors",
     category: "Science",
-    cover: "/book-catalog-image/Science and nature.jpg",
+    cover: "book-catalog-image/Science and nature.jpg",
   },
   {
     title: "Children's  Games",
     author: "J.K. Rowling",
     category: "Children",
-    cover: "/book-catalog-image/Games.jpg",
+    cover: "book-catalog-image/Games.jpg",
   },
   {
     title: "Sierra Leone school books",
     author: "Sierra Leone Writer",
     category: "Sierra Leone school books",
-    cover: "/book-catalog-image/Sierra Leone school books.jpg",
+    cover: "book-catalog-image/Sierra Leone school books.jpg",
   },
   {
     title: "Young Adults",
     author: "Cultural Writers",
     category: "Young adults",
-    cover: "/book-catalog-image/Young adults .jpg",
+    cover: "book-catalog-image/Young adults .jpg",
   },
 ];
 
@@ -92,7 +92,7 @@ function BooksCatalogPage() {
         {/* Hero Section */}
         <div className="relative h-[60vh] flex items-center justify-center text-center text-white">
           <img
-            src="/book-catalog-image/main hero iamge.JPG"
+            src="book-catalog-image/main hero iamge.JPG"
             alt="Library background"
             className="absolute inset-0 w-full h-full object-cover"
           />

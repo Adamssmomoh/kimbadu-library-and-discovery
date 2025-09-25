@@ -58,7 +58,7 @@ function ComputerResearchPage() { // Renamed function
           {/* Right Image */}
           <div>
             <img
-              src="/computer rome image/about the center image.jpg"
+              src="computer rome image/about the center image.jpg"
               alt="Computer Lab"
               className="rounded-2xl shadow-lg"
             />
@@ -96,9 +96,9 @@ function ComputerResearchPage() { // Renamed function
           </p>
 
           <div className="grid md:grid-cols-3 gap-6">
-            {[              "/computer rome image/gallery-1.jpg",
-              "/computer rome image/gallery-2.jpg",
-              "/computer rome image/gallery-3.jpg"
+            {[              "computer rome image/gallery-1.jpg",
+              "computer rome image/gallery-2.jpg",
+              "computer rome image/gallery-3.jpg"
             ].map((img, idx) => (
               <img
                 key={idx}

@@ -19,9 +19,9 @@ const mainReadingRoomData = {
   whyItMattersBackgroundColor: "bg-green-100",
   galleryTitle: "Inside the Main Reading Room",
   galleryImages: [
-    { src: "/support image /main reading chear.jpg", alt: "Reading Room Chairs" },
-    { src: "/support image /main room.jpg", alt: "Bookshelves with Sierra Leone books" },
-    { src: "/support image /main room library .jpg", alt: "Students studying" },
+    { src: "support image /main reading chear.jpg", alt: "Reading Room Chairs" },
+    { src: "support image /main room.jpg", alt: "Bookshelves with Sierra Leone books" },
+    { src: "support image /main room library .jpg", alt: "Students studying" },
   ],
   ctaTitle: "Be Part of the Change",
   ctaText: "You can help us create a better reading environment by donating books, furniture, or funds. Every contribution counts!",

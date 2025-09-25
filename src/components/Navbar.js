@@ -11,7 +11,7 @@ function Navbar() {
         {/* Logo */}
         <div className="flex items-center gap-2">
           <Link to="/">
-            <img src="/home image/KLDC logo .jpg" alt="Kimbadu Library Logo" className="h-8 w-auto" /> {/* Actual logo */}
+            <img src="home image/KLDC logo .jpg" alt="Kimbadu Library Logo" className="h-8 w-auto" /> {/* Actual logo */}
           </Link>
         </div>
 

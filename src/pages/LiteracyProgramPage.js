@@ -75,17 +75,17 @@ function LiteracyProgramPage() { // Renamed function
 
             <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3">
               <img
-                src="/literacy program/action in learning.jpg"  
+                src="literacy program/action in learning.jpg"  
                 alt="Literacy class"
                 className="rounded-xl shadow-md hover:scale-105 transition"
               />
               <img
-                src="/literacy program/learning in action.jpg"
+                src="literacy program/learning in action.jpg"
                 alt="Community class"
                 className="rounded-xl shadow-md hover:scale-105 transition"
               />
               <img
-                src="/literacy program/learning.jpg"
+                src="literacy program/learning.jpg"
                 alt="Books and teaching"
                 className="rounded-xl shadow-md hover:scale-105 transition"
               />

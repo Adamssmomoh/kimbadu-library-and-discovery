@@ -11,7 +11,7 @@ const LiteracyProgram = () => {
         </p>
       </div>
       <img
-        src="/home image/numeracy.jpg"
+        src="home image/numeracy.jpg"
         alt="Literacy Program"
         className="rounded-lg shadow-lg"
       />

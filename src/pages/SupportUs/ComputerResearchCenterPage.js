@@ -19,9 +19,9 @@ const computerResearchData = {
   whyItMattersTitle: null, // This page doesn't have a "Why it matters" section
   galleryTitle: "A Glimpse of the Center",
   galleryImages: [
-    { src: "/computer rome image/gallery-1.jpg", alt: "Computer Room" },
-    { src: "/computer rome image/gallery-2.jpg", alt: "Old Computers" },
-    { src: "/computer rome image/gallery-3.jpg", alt: "Students" },
+    { src: "computer rome image/gallery-1.jpg", alt: "Computer Room" },
+    { src: "computer rome image/gallery-2.jpg", alt: "Old Computers" },
+    { src: "computer rome image/gallery-3.jpg", alt: "Students" },
   ],
   ctaTitle: "Support the Computer Center",
   ctaText: "Your contribution will provide the technology and resources students need to succeed in the digital age.",

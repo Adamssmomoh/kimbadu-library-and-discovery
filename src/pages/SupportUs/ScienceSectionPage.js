@@ -59,17 +59,17 @@ function ScienceSectionPage() { // Renamed function
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             <img
-              src="/support image /science.jpg"
+              src="support image /science.jpg"
               alt="Outdated science textbooks"
               className="w-full h-64 object-cover rounded-lg shadow-md"
             />
             <img
-              src="/support image /science room area.jpg"
+              src="support image /science room area.jpg"
               alt="Students using old resources"
               className="w-full h-64 object-cover rounded-lg shadow-md"
             />
             <img
-              src="/support image /science-reading.jpg"
+              src="support image /science-reading.jpg"
               alt="Empty shelves needing science books"
               className="w-full h-64 object-cover rounded-lg shadow-md"
             />
